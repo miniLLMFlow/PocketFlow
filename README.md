@@ -17,7 +17,7 @@ Documentation: https://minillmflow.github.io/miniLLMFlow/
 
 ## Why Mini LLM Flow?
 
-Mini LLM Flow is designed to be **the framework used by LLMs**. In the future, LLM projects will *self-programmed* by LLMs themselves: Users specify requirements, and LLMs will design, build, and maintain. Current LLMs are:
+Mini LLM Flow is designed to be **the framework used by LLMs**. In the future, LLM projects will be *self-programmed* by LLMs themselves: Users specify requirements, and LLMs will design, build, and maintain. Current LLMs are:
 
 1. **👍 Good at Low-level Details:** LLMs can handle details like *wrappers, tools, and prompts*, which don't belong in a framework. Current frameworks are over-engineered, making them hard for humans (and LLMs) to maintain.
 
